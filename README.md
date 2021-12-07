@@ -14,3 +14,5 @@ Dosen Pengampu : Rian Fahrizal, S.T., M.Eng.
 
 
 Ini merupakan tugas akhir serta UAS Mata Kuliah Pengolahan Citra Jurusan Teknik Elektro FT UNTIRTA
+
+<a href= https://youtu.be/16cT6aOPU-4>Link Video</a>
